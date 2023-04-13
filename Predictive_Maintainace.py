@@ -13,9 +13,9 @@ Original file is located at
 
 """Environment Variables"""
 
-Template_Folder = "/content/drive/MyDrive/GroupProject/Deployment Site"
+Template_Folder = "https://github.com/sakib927/Predictive_Maintanace/blob/main"
 Model_file = '/content/drive/MyDrive/GroupProject/Deployment Site/random_forest.joblib'
-Scaler_file = '/content/drive/MyDrive/GroupProject/Deployment Site/MinMaxScaler.pkl'
+Scaler_file = 'https://github.com/sakib927/Predictive_Maintanace/blob/main/MinMaxScaler.pkl'
 
 
 # from google.colab import drive   #connecting to the google drive
