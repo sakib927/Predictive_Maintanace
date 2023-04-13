@@ -13,7 +13,7 @@ Original file is located at
 
 """Environment Variables"""
 
-Template_Folder = "https://github.com/sakib927/Predictive_Maintanace/blob/main"
+Template_Folder = "https://github.com/sakib927/Predictive_Maintanace"
 Model_file = '/content/drive/MyDrive/GroupProject/Deployment Site/random_forest.joblib'
 Scaler_file = 'https://github.com/sakib927/Predictive_Maintanace/blob/main/MinMaxScaler.pkl'
 
